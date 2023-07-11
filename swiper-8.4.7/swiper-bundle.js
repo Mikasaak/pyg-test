@@ -153,7 +153,9 @@
 
       addEventListener() {},
 
-      removeEventListener() {},
+      removeEventListener() {
+
+      },
 
       getComputedStyle() {
         return {
